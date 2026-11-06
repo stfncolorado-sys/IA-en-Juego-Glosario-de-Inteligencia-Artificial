@@ -1,0 +1,28 @@
+NEURORETO IA — PAQUETE DE ENTREGA
+
+CONTENIDO
+- index.html: micrositio interactivo con glosario buscable y juego de 24 retos.
+- 01_Glosario_NEURORETO_IA.pdf: 60 fichas bilingües, índices y bibliografía IEEE.
+- 02_Reglamento_NEURORETO_IA.pdf: reglas y banco de 24 preguntas con respuestas.
+- 03_Matriz_Fuentes_y_Trazabilidad.xlsx: fuentes, relación término-fuente, banco de retos y control de evidencias.
+
+IDIOMA
+Los términos técnicos y encabezados principales se conservan en inglés y se acompañan de su equivalente y explicación en español.
+
+ABRIR LOCALMENTE
+Descomprime el paquete y abre index.html con Chrome, Edge o Firefox. El juego y el glosario funcionan sin iniciar sesión y sin conexión.
+
+PUBLICAR GRATIS EN GITHUB PAGES
+1. Crear o iniciar sesión en GitHub.
+2. Crear un repositorio público, por ejemplo neuroreto-ia.
+3. Subir index.html a la raíz del repositorio.
+4. Ir a Settings → Pages.
+5. En Build and deployment, seleccionar Deploy from a branch, rama main, carpeta / (root), y guardar.
+6. Esperar a que GitHub Pages genere la URL. Probarla en una ventana privada y desde un teléfono.
+7. Solo después de confirmar la URL, generar el QR definitivo que apunte a esa dirección.
+
+ANTES DE ENTREGAR
+- Completar nombres de integrantes y datos institucionales pendientes.
+- Verificar cada ficha contra el localizador concreto de la fuente original. Los libros base se incluyen como bibliografía recomendada por la guía; completen páginas/capítulos tras consultar las ediciones utilizadas.
+- Realizar una prueba real con compañeros que no diseñaron el juego; registrar fecha, participantes, incidencias y ajustes. No declarar una prueba que no se haya realizado.
+- Publicar el sitio y añadir la URL/QR final a la entrega.
